@@ -299,6 +299,9 @@ int main(int argc, char** argv)
 		}
 	}
 
+	// free snake body
+	free(snake.body);
+
 	SDL_DestroyTexture(snake_texture);
 	SDL_DestroySurface(snake_surface);
 	SDL_DestroyTexture(food_texture);
