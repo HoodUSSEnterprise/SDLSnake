@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="SDLSnake.vcxproj" Id="fcee4d52-e5f7-4ad5-8d72-e5e18b2bbcc6" />
+</Solution>
